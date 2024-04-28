@@ -1,0 +1,11 @@
+# Pasos a seguir para subir mi proyecto a GITHUB
+
+1. git init (unica vez)
+2. trabajamos en el pryecto (agregamos archivos)
+3. git add . (con el . agregamos todos los archivos)
+4. git commit -m "mensaje" (para confirmar los cambios)
+5. creamos el repositorio en github
+6. seguimos los pasos desdee git branch -M main
+7. git remote add origin link de repo
+8. git push -u origin main
+9. git push si ya lo guardaste y agregas algo
